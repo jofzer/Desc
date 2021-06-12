@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayfor
 - 👀 I’m interested in ... Dev, Mining.
-- 🌱 I’m currently learning ... Developer, Inglesh.
+- 🌱 I’m currently learning ... Development
 - 💞️ I’m looking to collaborate on ... Ethereum Network
 - 📫 How to reach me ... sergiosrx@hotmail.com
 
