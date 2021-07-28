@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Dev, Mining.
 - 🌱 I’m currently learning ... Development
 - 💞️ I’m looking to collaborate on ... Ethereum Network
-- 📫 How to reach me ... sergiosrx@hotmail.com
+- 📫 How to reach me ... sergioscripto@hotmail.com
 
 <!---
 Sayfor/Sayfor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
