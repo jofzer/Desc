@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sérgio Rodrigues @sergior_adv 
+- 👋 Hi, I’m Sérgio Rodrigues @sergiosrx_ 
 - 👀 I’m interested in ... DEV, HTML, CSS, JS
 - 🌱 I’m currently learning ... Development
 - 💞️ I’m looking to collaborate on ... Bitcoin Network, Ethereum Network
